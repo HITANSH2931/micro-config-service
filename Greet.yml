@@ -1,8 +1,5 @@
 msg: hello
-spring:
-   application:
-      name: Greet
-      
+
 server:
   port: 8082
 
